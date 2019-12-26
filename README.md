@@ -4,7 +4,7 @@ Introduction
 ============
 Huckel theory is a semi-emperical technique to perform pen-and-paper quantum chemical calculations on unsaturated hydrocarbons. For more complicated structures, simple programming exercises (in Python) can suffice. A key problem in performing these computations is matrix diagonalization.
 
-A small computer exercise that uses an online Huckel code to predict the red-shifting upon substitution of a molecular motors
+A small computer exercise that uses i) an online Huckel code and ii) a Python script to predict the red-shifting upon substitution of a molecular motors. The calculations are based on the following article: [T. Leeuwen et al., Visible-light excitation of a molecular motor with an extended aromatic core. Organic Letters, 2017, 19, 1402–1405](https://pubs.acs.org/doi/abs/10.1021/acs.orglett.7b00317)
 
 Installation
 ============
@@ -16,7 +16,8 @@ Usage
 =====
 **Solve Huckel equations using Python**
 ```bash
-python butadiene.py
+python motor1.py
+python motor2.py
 ```
 
 **Molecular motors exercises:**
