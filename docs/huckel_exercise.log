@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.9.23)  29 JAN 2020 18:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.9.23)  7 FEB 2020 23:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -262,28 +262,29 @@ e
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 
-
-LaTeX Warning: Citation `Atkins2010' on page 1 undefined on input line 50.
-
 [1
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (/usr/local/texlive/2014/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2014/03/04 1.5c listings language file
-) [2]
-<./images/mos_1-3-butadiene.png, id=26, 359.6637pt x 574.0647pt>
+)
+<./images/mos_1-3-butadiene.png, id=20, 359.6637pt x 574.0647pt>
 File: ./images/mos_1-3-butadiene.png Graphic file (type png)
 
 <use ./images/mos_1-3-butadiene.png>
-Package pdftex.def Info: ./images/mos_1-3-butadiene.png used on input line 171.
+Package pdftex.def Info: ./images/mos_1-3-butadiene.png used on input line 168.
 
 (pdftex.def)             Requested size: 179.8314pt x 287.03165pt.
- [3 <./images/mos_1-3-butadiene.png>]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2] [3 <./images/mos_1-3-butadiene.png>]
 <./images/allyl_labels.png, id=32, 43.12505pt x 31.1065pt>
 File: ./images/allyl_labels.png Graphic file (type png)
 
 <use ./images/allyl_labels.png>
-Package pdftex.def Info: ./images/allyl_labels.png used on input line 185.
+Package pdftex.def Info: ./images/allyl_labels.png used on input line 182.
 (pdftex.def)             Requested size: 43.12492pt x 31.10641pt.
  [4
 
@@ -292,24 +293,24 @@ Package pdftex.def Info: ./images/allyl_labels.png used on input line 185.
 File: ./images/scheme1.png Graphic file (type png)
 
 <use ./images/scheme1.png>
-Package pdftex.def Info: ./images/scheme1.png used on input line 236.
+Package pdftex.def Info: ./images/scheme1.png used on input line 233.
 (pdftex.def)             Requested size: 253.30573pt x 76.606pt.
 
 <./images/mm1_labels.png, id=39, 109.36221pt x 103.48296pt>
 File: ./images/mm1_labels.png Graphic file (type png)
 
 <use ./images/mm1_labels.png>
-Package pdftex.def Info: ./images/mm1_labels.png used on input line 247.
+Package pdftex.def Info: ./images/mm1_labels.png used on input line 244.
 (pdftex.def)             Requested size: 109.36194pt x 103.48268pt.
 
 <./images/mm2_labels.png, id=40, 114.38762pt x 128.50659pt>
 File: ./images/mm2_labels.png Graphic file (type png)
 
 <use ./images/mm2_labels.png>
-Package pdftex.def Info: ./images/mm2_labels.png used on input line 252.
+Package pdftex.def Info: ./images/mm2_labels.png used on input line 249.
 (pdftex.def)             Requested size: 114.38733pt x 128.50626pt.
 
-Overfull \hbox (4.44441pt too wide) in paragraph at lines 245--255
+Overfull \hbox (4.44441pt too wide) in paragraph at lines 242--252
  [][]  [] 
  []
 
@@ -317,7 +318,7 @@ Overfull \hbox (4.44441pt too wide) in paragraph at lines 245--255
 File: ./images/hulis_mm.png Graphic file (type png)
 
 <use ./images/hulis_mm.png>
-Package pdftex.def Info: ./images/hulis_mm.png used on input line 263.
+Package pdftex.def Info: ./images/hulis_mm.png used on input line 260.
 (pdftex.def)             Requested size: 312.56699pt x 261.9781pt.
 
 
@@ -329,7 +330,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [6 <./images/hulis_mm.png>] [7] (./huckel_exercise.bbl
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <10> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 6.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 5.
 
 Missing character: There is no â in font cmss10!
 Missing character: There is no € in font cmss10!
@@ -340,42 +341,36 @@ Missing character: There is no Ã in font cmss10!
 Missing character: There is no ¼ in font cmss10!
 ) [8
 
-] (./huckel_exercise.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+] (./huckel_exercise.aux) ) 
 Here is how much of TeX's memory you used:
- 5138 strings out of 493117
- 75019 string characters out of 6135433
- 199960 words of memory out of 5000000
- 8534 multiletter control sequences out of 15000+600000
+ 5142 strings out of 493117
+ 75069 string characters out of 6135433
+ 199589 words of memory out of 5000000
+ 8538 multiletter control sequences out of 15000+600000
  14266 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,19n,42p,1175b,1564s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy
-7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10
-.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.p
-fb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pf
-b></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><
-/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb><
-/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
-sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/
-local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/l
-ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/lo
-cal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/loc
-al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local
-/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/t
-exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/
-texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/
-texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
-exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/tex
-live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on huckel_exercise.pdf (8 pages, 627941 bytes).
+</usr/local/texlive/2014/texmf-dist/fonts/type1/publ
+ic/amsfonts/cmextra/cmbsy7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmbx7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmex10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmmib10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmss10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmss12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmss17.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmss8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmss9.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmssbx10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmssi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy5.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+tt8.pfb>
+Output written on huckel_exercise.pdf (8 pages, 627932 bytes).
 PDF statistics:
  120 PDF objects out of 1000 (max. 8388607)
  78 compressed objects within 1 object stream
