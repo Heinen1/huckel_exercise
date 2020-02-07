@@ -6,7 +6,7 @@ Huckel theory is a semi-empirical quantum chemical method that can be applied to
 
 Huckel theory computer exericses
 ============
-A small computer exercise that predicts the red-shifting of the excitation wavelength upon substitution of the aromatic ring of a molecular motor is presented. Two approaches are given: i) an online Huckel code utilizing a graphical user interface and ii) a Python script that performs matrix diagonalization. From a computational viewpoint, both approaches are identical. The calculations are based on the following article: [T. Leeuwen et al., Visible-light excitation of a molecular motor with an extended aromatic core. Organic Letters, 2017, 19, 1402–1405](https://pubs.acs.org/doi/abs/10.1021/acs.orglett.7b00317). 
+A small computer exercise that predicts the red-shifting of the excitation wavelength upon substitution of the aromatic ring of a molecular motor is presented. Two approaches are given: 1) an online Huckel code utilizing a graphical user interface and 2) a Python script that performs matrix diagonalization. From a computational viewpoint, both approaches are identical. The calculations are based on the following article: [T. Leeuwen et al., Visible-light excitation of a molecular motor with an extended aromatic core. Organic Letters, 2017, 19, 1402–1405](https://pubs.acs.org/doi/abs/10.1021/acs.orglett.7b00317). 
 
 Installation
 ============
@@ -16,11 +16,11 @@ git clone https://github.com/Heinen1/huckel_exercise.git
 
 Usage
 =====
-**Solve Huckel equations using HuLiS:**
+**1) Solve Huckel equations using HuLiS:**
 
 Load the 'motor1.com' and 'motor2.com' files into HuLiS and calculate the corresponding HOMO and LUMO orbitals.
 
-**Solve Huckel equations using Python**
+**2) Solve Huckel equations using Python**
 ```bash
 python motor1.py
 python motor2.py
