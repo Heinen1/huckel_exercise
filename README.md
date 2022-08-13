@@ -1,5 +1,3 @@
-Huckel theory applied to molecular motors
-
 Introduction
 ============
 Huckel theory is a semi-empirical quantum chemical method that can be applied to unsaturated hydrocarbons. This method is often taught at the undergraduate level using pen and paper exercises. However, the use of computational methods, and programming in general, becomes more and more relevant in academic and industrial research. For this reason it can be argued that students should learn at an early stage to think in computational concepts. A key concept in quantum chemistry is matrix diagonalization, which can be easliy programmed with only a few lines of code.
